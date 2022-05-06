@@ -92,6 +92,9 @@ ipython_config.py
 #   install all needed dependencies.
 #Pipfile.lock
 
+# Deta [https://deta.sh]
+2MdS8Hxf.png
+
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
 __pypackages__/
 
